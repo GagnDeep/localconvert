@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E0E1A"/><stop offset="1" stop-color="#1B1B3A"/></linearGradient>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7B7BFF"/><stop offset="1" stop-color="#4545E0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="320" fill="#5B5BF6" opacity=".25"/>
+  <rect x="80" y="80" width="96" height="96" rx="24" fill="url(#lg)"/>
+  <path d="M110 121h36l-11-11M146 135h-36l11 11" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="142" fill="#fff" font-family="Inter Tight, -apple-system, Helvetica, sans-serif" font-size="44" font-weight="700">LocalConvert</text>
+  <text x="80" y="330" fill="#fff" font-family="Inter Tight, -apple-system, Helvetica, sans-serif" font-size="76" font-weight="700">Convert anything.</text>
+  <text x="80" y="420" fill="#A9A9FF" font-family="Inter Tight, -apple-system, Helvetica, sans-serif" font-size="76" font-weight="700">Privately, on your iPhone.</text>
+  <text x="80" y="520" fill="#C8C8D6" font-family="Inter, -apple-system, Helvetica, sans-serif" font-size="30">100+ formats · On-device · No uploads</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "LocalConvert",
+  "short_name": "LocalConvert",
+  "description": "Convert anything. Privately, on your iPhone.",
+  "start_url": "/localconvert/",
+  "display": "standalone",
+  "background_color": "#FBFBFD",
+  "theme_color": "#5B5BF6",
+  "icons": [
+    { "src": "/localconvert/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/localconvert/assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/localconvert/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

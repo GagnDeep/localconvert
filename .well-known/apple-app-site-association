@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["CAR7LQ3Y75.app.localconvert.ios"],
+        "components": [
+          { "/": "/convert/*", "comment": "Conversion landing pages open the matching conversion in the app" },
+          { "/": "/tools/image-converter/*", "exclude": true, "comment": "Browser tool stays on the web" },
+          { "/": "/tools/*", "comment": "Tool pages open the tool in the app" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": { "apps": ["CAR7LQ3Y75.app.localconvert.ios"] }
+}
